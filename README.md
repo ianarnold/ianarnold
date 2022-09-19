@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ianarnold&color=006bed)
 
-<h3> :man: &nbsp;Sobre mim </h3>
+<h3> :boy: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **SISTEMAS DE INFORMAÇÃO** na <a href="https://www.unisanta.br">Universidade Santa Cecília</a>.
