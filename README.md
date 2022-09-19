@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **SISTEMAS DE INFORMAÇÃO** na <a href="https://www.unisanta.br">Universidade Santa Cecília</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **PHP e LARAVEL**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -16,6 +15,7 @@
   ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
   ![Laravel](https://img.shields.io/badge/-LARAVEL-333333?style=flat&logo=laravel)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![C#](https://img.shields.io/badge/-CS-333333?style=flat&logo=csharp)
 
 
 <br/>
